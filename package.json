@@ -1,0 +1,25 @@
+{
+  "name": "SimpleERC721Token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abcoathup/SimpleERC721Token.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abcoathup/SimpleERC721Token/issues"
+  },
+  "homepage": "https://github.com/abcoathup/SimpleERC721Token#readme",
+  "dependencies": {
+    "@openzeppelin/cli": "^2.8.0-rc.2",
+    "@openzeppelin/contracts": "^3.0.0-beta.0",
+    "@truffle/hdwallet-provider": "^1.0.31"
+  }
+}
